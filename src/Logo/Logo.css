@@ -1,0 +1,13 @@
+/* Classes */
+.Tilt {
+    margin-left: 50px;
+    background-image: linear-gradient(90deg, rgb(26, 187, 136), #4BB9E9);
+    height: 100px;
+    width: 100px;
+}
+
+/* Ids */
+#logo-image {
+    width: 100%;
+    padding: 10px;
+}
